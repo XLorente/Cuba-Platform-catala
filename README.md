@@ -1,2 +1,3 @@
 # Cuba-Platform-catala
-Traducció de Cuba-Platform al català
+Projecte de traducció de Cuba-Platform al català
+Translation for the Cuba-Platform (http://www.cuba-platform.com) into catalan
