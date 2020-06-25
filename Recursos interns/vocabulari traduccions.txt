@@ -1,0 +1,4 @@
+ANGLÈS > CATALÀ
+remove = elimina
+delete = suprimeix
+erase = esborra
