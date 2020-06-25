@@ -2,3 +2,8 @@ ANGLÈS > CATALÀ
 remove = elimina
 delete = suprimeix
 erase = esborra
+commit = publica
+enter = introdueix
+set = aplica
+save = desa
+clear = neteja
