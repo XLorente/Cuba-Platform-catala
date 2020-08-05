@@ -67,3 +67,4 @@ see = vegeu
 root = arrel, adj:primordial
 retry = reintenta
 Caps Lock is on = Bloq Maj està activat
+band = secció (report)
