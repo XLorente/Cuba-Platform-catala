@@ -68,3 +68,6 @@ root = arrel, adj:primordial
 retry = reintenta
 Caps Lock is on = Bloq Maj està activat
 band = secció (report)
+closure = closure (funció de Groovy)
+JSON path = JSONpath
+pattern band = secció superior
