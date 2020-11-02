@@ -79,3 +79,4 @@ join = join (quan fa referència a la clàusula join SQL/JPQ no es tradueix)
 where = where (quan fa referència a la clàusula where SQL/JPQ no es tradueix)
 pivot table = taula dinàmica
 renderer = renderitzador
+listener = oient
